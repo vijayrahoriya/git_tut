@@ -1,0 +1,3 @@
+this is simple text file
+git diff compare our staging area and working area
+this is changed now
